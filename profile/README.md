@@ -15,5 +15,5 @@ Thank you for reading!
 ## Our Projects
 <li> <a href="https://github.com/Team-Cartographer/cartographerADC23">2022/23 NASA ADC</a> - Top 3 US + Invited to Johnson Space Center</li>
 <li> <a href="https://github.com/Team-Cartographer/Kibo-RPC">2023 NASA/JAXA Kibo RPC</a> - Top 10 US </li>
-<li> <a href=https://github.com/Team-Cartographer/Space-Apps-2023-Data">2023 NASA Space Apps Challenge</a> - Awaiting Results (Data Code @ Link, Website Code <a href="https://github.com/SuleymanEfe/space-apps-website">Here</a>)</li>
+<li> <a href=https://github.com/Team-Cartographer/Space-Apps-2023-Data">2023 NASA Space Apps Challenge</a> - Regional Winners, Global Qualifiers (Data Code @ Link, Website Code <a href="https://github.com/SuleymanEfe/space-apps-website">Here</a>)</li>
 <li>More projects coming soon...</li>
