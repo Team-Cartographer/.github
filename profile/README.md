@@ -1,12 +1,13 @@
 <div align=center> 
 <h1><b>Team Cartographer</b></h1>
   <p align=center>
-    <a href="mailto:ADCTeamCartographer@gmail.com"><img src="https://img.shields.io/badge/contact-adcteamcartographer@gmail.com-E1306C" alt="e-mail"></a>
+    <a href="mailto:teamcartographer@gmail.com"><img src="https://img.shields.io/badge/contact-teamcartographer@gmail.com-E1306C" alt="e-mail"></a>
 </div>
 
 ## Welcome
 Welcome to the GitHub Team Page for Team Cartographer, a STEM and Software Engineering/Development focused group from Southern California participating in Various NASA Coding Challenges. Our team members change from challenge to challenge, so please take a look at each individual project page for more information.<br><br>
 
+(Note that all email sent to adcteamcartographer[AT]gmail.com will be redirected to teamcartographer[AT]gmail.com)<br>
 Our next project is the 2023 NASA SUITS Challenge! 
 <!--
 <b>ANNOUNCEMENT:</b><br>
