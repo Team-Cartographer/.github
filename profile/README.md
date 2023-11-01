@@ -5,7 +5,7 @@
 </div>
 
 ## Welcome
-Welcome to the *new* GitHub Team Page for Team Cartographer, a STEM and Software Engineering/Development focused group from Southern California participating in Various NASA Coding Challenges. Our team members change from challenge to challenge, so please take a look at each individual project page for more information.<br><br>
+Welcome to the *new* GitHub Team Page for Team Cartographer, a STEM and Software Engineering/Development focused group from Southern California participating in Various NASA Coding Challenges. We aim to provide outreach and inspiration to expand student's passions in STEM through outreach events created thanks to our projects! Our team members change from challenge to challenge, so please take a look at each individual project page for more information.<br><br>
 Our next project is the 2023 NASA SUITS Challenge! 
 <!--
 <b>ANNOUNCEMENT:</b><br>
