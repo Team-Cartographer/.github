@@ -5,15 +5,16 @@
 </div>
 
 ## Welcome
-Welcome to the GitHub Team Page for Team Cartographer, a STEM and Software Engineering/Development focused group from Southern California participating in Various NASA Coding Challenges. Our team members change from challenge to challenge, so please take a look at each individual project page for more information.<br><br>
-
-(Note that all email sent to adcteamcartographer[AT]gmail.com will be redirected to teamcartographer[AT]gmail.com)<br>
+Welcome to the *new* GitHub Team Page for Team Cartographer, a STEM and Software Engineering/Development focused group from Southern California participating in Various NASA Coding Challenges. Our team members change from challenge to challenge, so please take a look at each individual project page for more information.<br><br>
 Our next project is the 2023 NASA SUITS Challenge! 
 <!--
 <b>ANNOUNCEMENT:</b><br>
 <b>We are currently looking to expand our avenues to robotics, embedded software and hardware design, and avionics, and are looking for sponsors. If you or anyone you know is interested, please contact us at the email above! </b> <br><br>
 -->
 Thank you for reading!
+<br><br>
+
+(Note that all email sent to adcteamcartographer[AT]gmail.com will be redirected to teamcartographer[AT]gmail.com)<br>
 
 ## Our Projects
 <li> <a href="https://github.com/Team-Cartographer/cartographerADC23">2022/23 NASA ADC</a> - One of Three winning teams in the US + Invited to Johnson Space Center</li>
