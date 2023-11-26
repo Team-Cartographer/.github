@@ -30,7 +30,7 @@ for their dedicated and gracious support in our projects.<br>
 
 ### Affiliated Organizations:
 We would like to thank our affiliated organizations: 
-<li>UC Irvine EECS Department</li>
+<li>UC Irvine EECS Department, Henry Samueli School of Engineering</li>
 <li>UC Merced College of Engineering</li>
 <li>UC Davis College of Arts and Sciences</li>
 <li>CU Boulder College of Arts and Sciences, and CU Boulder College of Engineering</li>
