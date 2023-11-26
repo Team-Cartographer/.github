@@ -4,20 +4,35 @@
     <a href="mailto:teamcartographer@gmail.com"><img src="https://img.shields.io/badge/contact-teamcartographer@gmail.com-E1306C" alt="e-mail"></a>
 </div>
 
-## Welcome
-Welcome to the *new* GitHub Team Page for Team Cartographer, a STEM and Software Engineering/Development focused group from Southern California participating in Various NASA Coding Challenges. We aim to provide outreach and inspiration to expand student's passions in STEM through outreach events created thanks to our projects! Our team members change from challenge to challenge, so please take a look at each individual project page for more information.<br><br>
-Our next project is the 2023 NASA SUITS Challenge! 
-<!--
-<b>ANNOUNCEMENT:</b><br>
-<b>We are currently looking to expand our avenues to robotics, embedded software and hardware design, and avionics, and are looking for sponsors. If you or anyone you know is interested, please contact us at the email above! </b> <br><br>
--->
+## Introduction
+Welcome to the *new* GitHub Team Page for Team Cartographer, a STEM and Software Engineering/Development group from Southern California, participating in Various NASA/Aerospace/Engineering Challenges. <br>
+We aim to provide outreach and inspiration to expand student's passions in STEM through outreach events created thanks to our projects! <br>
+Our team members change from challenge to challenge, so please take a look at each individual project page for more information.<br><br>
+
 Thank you for reading!
 <br><br>
-
-(Note that all email sent to adcteamcartographer[AT]gmail.com will be redirected to teamcartographer[AT]gmail.com)<br>
 
 ## Our Projects
 <li> <a href="https://github.com/Team-Cartographer/cartographerADC23">2022/23 NASA ADC</a> - One of Three winning teams in the US + Invited to Johnson Space Center</li>
 <li> <a href="https://github.com/Team-Cartographer/Kibo-RPC">2023 NASA/JAXA Kibo RPC</a> - Top 10 US </li>
 <li> <a href=https://github.com/Team-Cartographer/Space-Apps-2023-Data>2023 NASA Space Apps Challenge</a> - Pasadena Regional Winners & Global Nominees (Top 500 Worldwide) (Data Code @ the Link, Website Code <a href="https://github.com/SuleymanEfe/space-apps-website">Here</a>)</li><br>
-<li> Currently working on: 2024 NASA SUITS Challenge (GitHub Coming Soon...) </li>
+
+#### Currently working on: 
+<li>2024 NASA SUITS Challenge (GitHub Coming Soon...) </li><br>
+
+
+## Affiliations
+
+### Sponsors:
+We would like to thank our sponsor(s): 
+<li><a href="https://www.kickstarter.com/projects/xnote/xnote-chatgpt-powered-smart-notebook?ref=7il62y">X Note</a></li><br>
+for their dedicated and gracious support in our projects.<br>
+
+### Affiliated Organizations:
+We would like to thank our affiliated organizations: 
+<li>UC Irvine EECS Department</li>
+<li>UC Merced College of Engineering</li>
+<li>UC Davis College of Arts and Sciences</li>
+<li>CU Boulder College of Arts and Sciences, and CU Boulder College of Engineering</li>
+<li>Fairmont Schools, Anaheim, CA</li><br>
+for their support and mentorship throughout our endeavours. <br>
