@@ -25,7 +25,7 @@ Thank you for reading!
 
 ### Sponsors:
 We would like to thank our sponsor(s): 
-<li><a href="https://www.kickstarter.com/projects/xnote/xnote-chatgpt-powered-smart-notebook?ref=7il62y">X Note</a></li><br>
+<li><a href="https://www.kickstarter.com/projects/xnote/xnote-chatgpt-powered-smart-notebook?ref=7il62y">XNote</a></li><br>
 for their dedicated and gracious support in our projects.<br>
 
 ### Affiliated Organizations:
