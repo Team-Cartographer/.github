@@ -1,5 +1,5 @@
 <div align=center> 
-<h1><b>Team Cartographer</b></h1>
+<h1><b><a href="https://team-cartographer.github.io/team-cartographer-site/">Team Cartographer</a></b></h1>
   <p align=center>
     <a href="mailto:teamcartographer@gmail.com"><img src="https://img.shields.io/badge/contact-teamcartographer@gmail.com-E1306C" alt="e-mail"></a>
 </div>
@@ -7,8 +7,8 @@
 ## Introduction
 Welcome to the *new* GitHub Team Page for Team Cartographer, a STEM and Software Engineering/Development group from Southern California, participating in Various NASA/Aerospace/Engineering Challenges. <br>
 We aim to provide outreach and inspiration to expand student's passions in STEM through outreach events created thanks to our projects! <br>
-Our team members change from challenge to challenge, so please take a look at each individual project page for more information.<br><br>
-
+Our team members change from challenge to challenge, so please take a look at each individual project page for more information.<br>
+Check out our Website here: https://team-cartographer.github.io/team-cartographer-site/<br><br>
 Thank you for reading!
 <br><br>
 
